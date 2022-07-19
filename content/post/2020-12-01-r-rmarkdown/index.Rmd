@@ -78,10 +78,3 @@ ggplot(scpdt_base[scpdt_base$AllOtherNonimmigrantVisas>100,], aes(y=reorder(Emba
 Questions?
 Contact: visalimbo@gmail.com
 
-
-
-
-
-
-
-
