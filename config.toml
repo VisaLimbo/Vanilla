@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Visa Limbo"
+title = "A Hugo website"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -14,13 +14,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/VisaLimbo"
+    url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/VisaLimbo"
+    url = "https://twitter.com/rstudio"
 
 [params]
-    description = "How long are waiting times for US visa appointments?"
+    description = "A website built through Hugo and blogdown."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -35,9 +35,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
+    url = "Dali_limbo.png"
+    width = 90
+    height = 80
     alt = "Logo"
 
 [markup]
